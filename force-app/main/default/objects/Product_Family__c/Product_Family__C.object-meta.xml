@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverride>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <actionOverride>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverride>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>false</enableActivities>
+    <enableBulApi>true</enableBulApi>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableLicensing>false</enableLicensing>
+    <enableReports>false</enableReports>
+    <enableSearch>false</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <label>Product Family</label>
+    <nameField>
+        <label>Product Family Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Product Families</pluralLabel>
+    <searchLayouts />
+    <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
+</CustomObject>

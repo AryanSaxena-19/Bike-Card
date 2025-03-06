@@ -1,0 +1,97 @@
+{
+    "pageNumber": 1,
+    "pageSize": 9,
+    "totalItemCount": 12,
+    "records": [
+        {
+            "Id": "a039A000000lqLbQAI",
+            "Name": " OLA S1 Pro",
+            "MSRP__c": 1240000,
+            "Description__c": "Ola S1 Pro is a high-performance electric scooter with a long-range battery, advanced features, and a sleek design.",
+            "Category__c": "Urban/Commuter",
+            "Level__c": "premium",
+            "Picture_URL__c": "https://images.news18.com/ibnlive/uploads/2022/08/ola-s1-freedom-edition-166063030216x9.jpg",
+            "Material__c": "Metal-Plastic"
+        },
+        {
+            "Id": "a039A000000lqLcQAI",
+            "Name": "OLA S1 Air",
+            "MSRP__c": 124000,
+            "Description__c": "Ola S1 Air is a lightweight and efficient electric scooter designed for urban commuting with a balanced mix of performance and affordability.",
+            "Category__c": "Urban/Commuter",
+            "Level__c": "Mid-range",
+            "Picture_URL__c": "https://tse2.mm.bing.net/th?id=OIP.CAC5go6x9BoMPsAFroJ81gHaEU&pid=Api&P=0&h=180",
+            "Material__c": "Metal-Plastic"
+        },
+        {
+            "Id": "a039A000000lqLdQAI",
+            "Name": "OLA S1 X",
+            "MSRP__c": 7400,
+            "Description__c": "Ola S1 Air is a lightweight and efficient electric scooter designed for urban commuting with a balanced mix of performance and affordability.",
+            "Category__c": "Urban/Commuter",
+            "Level__c": "Mid-range",
+            "Picture_URL__c": "https://i.ytimg.com/vi/yf9hP2AXmKQ/maxresdefault.jpg",
+            "Material__c": "Metal-Plastic"
+        },
+        {
+            "Id": "a039A000000lqLfQAI",
+            "Name": "Ather 450X",
+            "MSRP__c": 110020,
+            "Description__c": " A sporty and smart electric scooter with fast charging, high performance, and a connected dashboard.",
+            "Category__c": "Urban/Commuter",
+            "Level__c": "Premium",
+            "Picture_URL__c": "https://cdn.zeebiz.com/sites/default/files/2022/07/20/190734-ather-3.jpg",
+            "Material__c": "Metal-Plastic"
+        },
+        {
+            "Id": "a039A000000KePgWCY",
+            "Name": "Ultraviolette F77",
+            "MSRP__c": 475000,
+            "Description__c": "A high-performance electric motorcycle with a powerful motor and sporty design.",
+            "Category__c": "Sporty/Performance",
+            "Level__c": "Premium",
+            "Picture_URL__c": "https://images.hindustantimes.com/auto/auto-images/bikes/ultraviolette/ultraviolettef77/exterior_ultraviolette-f77_front-right-view_600x400.jpg",
+            "Material__c": "Metal"
+        },
+        {
+            "Id": "a039A000000fgOhQAI",
+            "Name": "Revolt RV400",
+            "MSRP__c": 250000,
+            "Description__c": "An electric street bike with AI-based features, swappable batteries, and rugged design.",
+            "Category__c": "Street/Naked",
+            "Level__c": "Naked",
+            "Picture_URL__c": "https://media.zigcdn.com/media/content/2019/Aug/revolt_rv400_0720_720x540.jpg",
+            "Material__c": "Metal" 
+        },
+        {
+            "Id": "a039A000000lrLHQAY",
+            "Name": "Matter Aera",
+            "MSRP__c": 125000,
+            "Description__c": "India’s first electric motorcycle with a manual gearbox, built for everyday utility and performance.",
+            "Category__c": "Utility/Street",
+            "Level__c": "Mid-range",
+            "Picture_URL__c": "https://bd.gaadicdn.com/processedimages/matter-ev/matter-electric-bike/source/matter-electric-bike640037bddc811.jpg",
+            "Material__c": "Metal"
+        },
+        {
+            "Id": "a039A000000lqLNTAI",
+            "Name": "Tork Kratos R",
+            "MSRP__c": 650000,
+            "Description__c": "A powerful electric street bike with aggressive styling and a high torque output.",
+            "Category__c":"Street/Naked",
+            "Level__c": "Mid-range",
+            "Picture_URL__c": "https://imgk.timesnownews.com/media/Tork_Kratos_R.png",
+            "Material__c": "Metal"
+        },
+        {
+            "Id": "a039A000000lqLvEAI",
+            "Name": "Kabira Mobility KM3000",
+            "MSRP__c": 1600000,
+            "Description__c": "A fully-faired electric sports bike with a sleek design and high-speed performance.",
+            "Category__c": "Sporty/Performance",
+            "Level__c": "Mid-range",
+            "Picture_URL__c": "https://newsimg.giznext.com/mobile/production/news/wp-content/uploads/2024/02/16130808/Untitled-design-37.png",
+            "Material__c": "Metal"
+        }
+    ]
+}
