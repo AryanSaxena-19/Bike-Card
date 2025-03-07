@@ -65,7 +65,7 @@
     <promptVersions>
         <actionButtonLabel>GitHub</actionButtonLabel>
         <actionButtonLink
-        >https://github.com/trailheadapps/ebikes-lwc</actionButtonLink>
+        >https://github.com/AryanSaxena-19/Bike-Card</actionButtonLink>
         <body
         >Selected product&apos;s details are shown in this section.&lt;br/&gt;Click on the top right double arrow icon to navigate to the product record page.</body>
         <customApplication>BikeCard</customApplication>
